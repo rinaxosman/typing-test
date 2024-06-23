@@ -1,0 +1,35 @@
+{
+    "sentences": [
+      "The sun shines brightly on a summer day.",
+      "The birds chirp merrily in the trees.",
+      "A gentle breeze rustles the leaves on the ground.",
+      "The cat sleeps soundly on the warm windowsill.",
+      "The dog wags its tail excitedly at the park.",
+      "Children laugh and play in the playground.",
+      "The farmer harvests ripe fruits from the orchard.",
+      "The river flows calmly through the valley.",
+      "The stars twinkle in the clear night sky.",
+      "The moon glows softly above the sleeping city.",
+      "Students study diligently for their upcoming exams.",
+      "The teacher explains a complex math problem.",
+      "Friends collaborate on a group project.",
+      "The library is a quiet place to read and learn.",
+      "Graduation is a time for celebration and reflection.",
+      "The new smartphone has impressive features.",
+      "Coding requires logical thinking and problem-solving skills.",
+      "Artificial intelligence is rapidly advancing.",
+      "The internet connects people from all over the world.",
+      "Virtual reality offers immersive experiences.",
+      "I love listening to music while I work.",
+      "The food at this restaurant is delicious.",
+      "Let's go for a walk in the park.",
+      "It's a beautiful day to relax and enjoy the sunshine.",
+      "I can't wait for the weekend to start."
+      "public static void main(String[] args) {}",
+      "Don't forget to close your curly braces! }",
+      "Debugging is like being a detective in a crime novel of your own making.",
+      "There are 10 types of people in the world: Those who understand binary and those who don't.",
+      "Roses are red, violets are blue, unexpected '{' on line 32."
+    ]
+  }
+  

@@ -3,18 +3,20 @@
 body {
     font-family: Poppins, sans-serif;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #e2e2e2;
     margin: 0;
     padding: 0;
 }
 
 .container {
+    border-radius: 5px;
     width: 80%;
     max-width: 800px;
     margin: 50px auto;
     background: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 75vh;
 }
 
 h1 {
@@ -42,11 +44,30 @@ textarea {
 }
 
 button {
+    font-family: Poppins, sans-serif;
     padding: 10px 20px;
     margin: 5px;
     cursor: pointer;
 }
 
+#start-btn{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+#reset-btn{
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
 #user-input {
-    background-color: #e9f7ef;
+    background-color: #ffffff;
+}
+
+#test-text{
+    background-color: #e2e2e2;
 }

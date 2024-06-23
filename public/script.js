@@ -7,7 +7,6 @@ const timeElement = document.getElementById('time');
 const wpmElement = document.getElementById('wpm');
 const accuracyElement = document.getElementById('accuracy');
 
-// Test text and variables for timing
 const testText = "The quick brown fox jumps over the lazy dog.";
 let startTime, endTime, timerInterval;
 
